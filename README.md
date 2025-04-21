@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning from The Odin Project
 - 📫 How to reach me :
-  @quaefrmda6ix on Twitter and
   qjdsayers@gmail.com
 <!---
 Quae03/Quae03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
