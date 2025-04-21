@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quae03
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning from The Odin Project
+- 🌱 learned from The Odin Project, FreeCodeCamp & Frontend Mentor
 - 📫 How to reach me :
   qjdsayers@gmail.com
 <!---
